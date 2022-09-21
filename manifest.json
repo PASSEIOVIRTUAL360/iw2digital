@@ -1,6 +1,5 @@
 {
  "background_color": "#000000",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
  ],
  "theme_color": "#000000",
  "name": "IW2DIGITAL",
+ "start_url": "index.htm",
  "display": "fullscreen"
 }
