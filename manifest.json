@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#000000",
  "name": "IW2DIGITAL",
  "display": "fullscreen",
  "background_color": "#000000",
- "start_url": "index.htm",
- "theme_color": "#000000"
+ "start_url": "index.htm"
 }
